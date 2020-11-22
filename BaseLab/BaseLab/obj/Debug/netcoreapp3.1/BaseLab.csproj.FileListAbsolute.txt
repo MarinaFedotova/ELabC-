@@ -1,0 +1,12 @@
+C:\rep\Lab\BaseLab\BaseLab\bin\Debug\netcoreapp3.1\BaseLab.exe
+C:\rep\Lab\BaseLab\BaseLab\bin\Debug\netcoreapp3.1\BaseLab.deps.json
+C:\rep\Lab\BaseLab\BaseLab\bin\Debug\netcoreapp3.1\BaseLab.runtimeconfig.json
+C:\rep\Lab\BaseLab\BaseLab\bin\Debug\netcoreapp3.1\BaseLab.runtimeconfig.dev.json
+C:\rep\Lab\BaseLab\BaseLab\bin\Debug\netcoreapp3.1\BaseLab.dll
+C:\rep\Lab\BaseLab\BaseLab\bin\Debug\netcoreapp3.1\BaseLab.pdb
+C:\rep\Lab\BaseLab\BaseLab\obj\Debug\netcoreapp3.1\BaseLab.AssemblyInfoInputs.cache
+C:\rep\Lab\BaseLab\BaseLab\obj\Debug\netcoreapp3.1\BaseLab.AssemblyInfo.cs
+C:\rep\Lab\BaseLab\BaseLab\obj\Debug\netcoreapp3.1\BaseLab.csproj.CoreCompileInputs.cache
+C:\rep\Lab\BaseLab\BaseLab\obj\Debug\netcoreapp3.1\BaseLab.dll
+C:\rep\Lab\BaseLab\BaseLab\obj\Debug\netcoreapp3.1\BaseLab.pdb
+C:\rep\Lab\BaseLab\BaseLab\obj\Debug\netcoreapp3.1\BaseLab.genruntimeconfig.cache
